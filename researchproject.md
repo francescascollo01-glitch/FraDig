@@ -5,7 +5,7 @@ title: Research Project
 
 # My Final Research Project  
 
-<h1><a href="/FraDig/file:///Users/francescascollo/Desktop/ucf/digital%20humanities/final%20project.html"> Final Research Project Here! </a> </h1>
+<h1><a href="/FraDig/finalproject.html"> Final Research Project Here! </a> </h1>
 
 
 # Abstract
